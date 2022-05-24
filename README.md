@@ -9,6 +9,10 @@
 ```shell
 go build && ./simple-demo
 ```
+或者
+```shell
+go run main.go router.go
+```
 
 ### 功能说明
 
@@ -20,3 +24,4 @@ go build && ./simple-demo
 ### 测试数据
 
 测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
+本人对于数据库连接的测试代码位于test文件夹中
