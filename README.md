@@ -23,5 +23,5 @@ go run main.go router.go
 
 ### 测试数据
 
-测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
-本人对于数据库连接的测试代码位于test文件夹中
+* 测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
+* 本人对于数据库连接的测试代码位于test文件夹中
