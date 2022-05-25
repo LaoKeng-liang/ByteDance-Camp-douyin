@@ -1,3 +1,10 @@
+
+# about
+
+本项目为字节跳动青训营实训项目：迷你版抖音APP，采用go-gin/mysql/xxx/xxx/xxx
+
+供参考学习，线上使用请谨慎！
+
 # simple-demo
 
 ## 抖音项目服务端简单示例
@@ -25,3 +32,6 @@ go run main.go router.go
 
 * 测试数据写在 demo_data.go 中，用于列表接口的 mock 测试
 * 本人对于数据库连接的测试代码位于test文件夹中
+
+
+## Happy coding guys!😀
